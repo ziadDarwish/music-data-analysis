@@ -44,7 +44,7 @@ Patterns in genre diversification and crossover trends.
 
 This project was made possible by an incredible group of collaborators:
 
-- **Nadeen** – our datahead and GUC's Kid A.I, PHD student, whose powerful EDA and analysis _"pulled of out of an air crash"_ situation.
+- **Nadeen** – our datahead and GUC's Kid A.I, PHD student, whose powerful EDA and analysis _"Pulled us out of an air crash"_ situation.
 - **Tarek** – our _“Man of War”_, who applied clustering techniques from our ML coursework to identify deep genre/subgenre trends.
 - **Menna** – created the beautiful **Flourish dashboard** you can explore [here](https://public.flourish.studio/visualisation/your_dashboard_link/).
 - **Kareem** – orchestrated our workflow and ensure _“everything stayed In Its Right Place”_.
