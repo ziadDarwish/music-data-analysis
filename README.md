@@ -16,6 +16,12 @@ Our project is based on Billboard’s **Top 200 Albums of All Time**, providing 
 
 ## 📊 Visual Highlights
 
+### 🎶 Genre Analysis
+_A visual of genre evolution._  
+![Genres Across Decades](assets/the-art-of-music.png)
+
+---
+
 ### 🎨 Top 10 Genres Across Decades  
 _A visual overview of the most dominant genres in each era._  
 ![Top 10 Genres Across Decades](assets/top-ten-over-time.png)
