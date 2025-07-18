@@ -1,14 +1,14 @@
 # 🎶 OK Computer, Map My Sound  
 *A Data Science Diploma Capstone Project*  
-**Institute:** The German University in Cairo, Egypt  
+**The German University in Cairo, Egypt**   
 
 ---
 
 ## 🧠 Project Overview
 
-_“No Surprises”_ here — this project explores the evolution of music genres, subgenres, and audio features over the decades using data collected from multiple sources, including the **Spotify Web API** and the **Last.fm API**. Since Spotify’s genre data was limited (surprise surprise...), we leveraged Last.fm to fill in missing genre and subgenre classifications — making our dataset richer, cleaner, and more representative.
+This project explores the evolution of music genres, subgenres, and audio features over the decades using data collected from multiple sources, including the **Spotify Web API** and the **Last.fm API**. Since Spotify’s genre data was limited (no surprises), we leveraged Last.fm to fill in missing genre and subgenre classifications making our dataset richer, cleaner, and more representative.
 
-To orchestrate our workflow and ensure everything stayed _“In Its Right Place”_, we built a data pipeline using **Apache Airflow** and stored our processed data in **PostgreSQL**.
+To orchestrate our workflow, we built a data pipeline using **Apache Airflow** and stored our processed data in **PostgreSQL**.
 
 Our project is based on Billboard’s **Top 200 Albums of All Time**, providing a solid foundation for trend analysis across decades.
 
@@ -44,10 +44,10 @@ Patterns in genre diversification and crossover trends.
 
 This project was made possible by an incredible group of collaborators:
 
-- **Nadeen** – our datahead and GUC's Kid A.I, PHD student, whose powerful EDA and analysis _"Pulled us out of an air crash"_ situation.
-- **Tarek** – our _“Man of War”_, who applied clustering techniques from our ML coursework to identify deep genre/subgenre trends.
+- **Nadeen** – our datahead and GUC's Kid A.I, PHD student, whose powerful EDA and analysis _Pulled us out of an air crash_ situation.
+- **Tarek** – our _Man of War_, who applied clustering techniques from our ML coursework to identify deep genre/subgenre trends.
 - **Menna** – created the beautiful **Flourish dashboard** you can explore [here](https://public.flourish.studio/visualisation/your_dashboard_link/).
-- **Kareem** – orchestrated our workflow and ensure _“everything stayed In Its Right Place”_.
+- **Kareem** – orchestrated our workflow and ensure _everything stayed In Its Right Place_.
 - **Ziad** – brought the data together and made sure there was no empty spaces inside the data for the weeds to take root.
 
 ---
