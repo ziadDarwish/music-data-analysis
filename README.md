@@ -46,7 +46,7 @@ This project was made possible by an incredible group of collaborators:
 
 - **Nadeen** – our datahead and GUC's Kid A.I, PHD student, whose powerful EDA and analysis _Pulled us out of an air crash_ situation.
 - **Tarek** – our _Man of War_, who applied clustering techniques from our ML coursework to identify deep genre/subgenre trends.
-- **Menna** – created the beautiful **Flourish dashboard** you can explore [here](https://public.flourish.studio/visualisation/your_dashboard_link/).
+- **Menna** – created the beautiful **Flourish dashboard** you can explore [here](https://public.flourish.studio/story/3211471/).
 - **Kareem** – orchestrated our workflow and ensure _everything stayed In Its Right Place_.
 - **Ziad** – brought the data together and made sure there was no empty spaces inside the data for the weeds to take root.
 
@@ -62,7 +62,7 @@ This project was made possible by an incredible group of collaborators:
 
 ---
 
-[Flourish Dashboard](https://public.flourish.studio/visualisation/your_dashboard_link/).
+[Flourish Dashboard](https://public.flourish.studio/story/3211471/).
 
 ---
 
